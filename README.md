@@ -1,16 +1,21 @@
-### Hi there 👋
+# 👨‍🚀 Lucas Cegielkowski Guimarães
 
-<!--
-**Cegielkowski/Cegielkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/cegielkowski)](https://github.com/cegielkowski)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cegielkowski/)](https://www.linkedin.com/in/cegielkowski/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514998583391&text=Olá!)](https://api.whatsapp.com/send?phone=5514998583391&text=Olá!)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/Cegielkowski)](https://t.me/Cegielkowski)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cegielkowski.dev@gmail.com)](mailto:cegielkowski.dev@gmail.com)
 
-Here are some ideas to get you started:
+## Hello everyone 👋, Welcome!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My name is Lucas Cegielkowski Guimarães, I am Backend Engineer!
+
+- :round_pushpin: From Agudos-SP.
+- 🎓 Studying Information System.
+- :chart_with_upwards_trend: My Equation: :coffee:  +  :musical_note:  +  :pizza:  =  💻  =  :purple_heart:
+- 🚀 Stack: Golang, Python and PHP.
+- :books: Improving skills in Microservices, ElasticSearch and software architecture.
+
+>
+  "If you can dream it, you can do it."
+>
