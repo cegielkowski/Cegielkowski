@@ -19,3 +19,5 @@
 >
   "If you can dream it, you can do it."
 >
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cegielkowski&theme=tokyonight)
