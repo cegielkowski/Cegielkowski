@@ -20,4 +20,4 @@
   "If you can dream it, you can do it."
 >
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cegielkowski&langs_count=8&hide=html,blade,shell&layout=compact&theme=gruvbox)](https://github.com/Cegielkowski/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cegielkowski&layout=compact&langs_count=7&theme=dracula)](https://github.com/Cegielkowski/github-readme-stats)
