@@ -13,7 +13,7 @@
 - :round_pushpin: From Agudos-SP.
 - 🎓 Bacharelor Information System.
 - :chart_with_upwards_trend: My Equation: :coffee:  +  :musical_note:  +  :pizza:  =  💻  =  :purple_heart:
-- 🚀 Stack: Golang, Python, PHP.
+- 🚀 Stack: Golang, Python, Scala.
 >
   "If you can dream it, you can do it."
 >
