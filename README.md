@@ -11,11 +11,9 @@
 ### My name is Lucas Cegielkowski Guimarães, I am a Backend Engineer!
 
 - :round_pushpin: From Agudos-SP.
-- 🎓 Studying Information System.
+- 🎓 Bacharelor Information System.
 - :chart_with_upwards_trend: My Equation: :coffee:  +  :musical_note:  +  :pizza:  =  💻  =  :purple_heart:
-- 🚀 Stack: Golang, Python, and PHP.
-- :books: Improving skills in Microservices, ElasticSearch, and software architecture.
-
+- 🚀 Stack: Golang, Python, PHP.
 >
   "If you can dream it, you can do it."
 >
