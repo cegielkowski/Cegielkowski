@@ -8,11 +8,11 @@
 
 ## Hello everyone 👋, Welcome!
 
-### My name is Lucas Cegielkowski Guimarães, I am a Backend Engineer!
+### My name is Lucas Cegielkowski Guimarães, I am a Software Engineer!
 
-- :round_pushpin: From Agudos-SP.
+- :round_pushpin: From Brazil.
 - 🎓 Bacharelor Information System.
-- :chart_with_upwards_trend: My Equation: :coffee:  +  :musical_note:  +  :pizza:  =  💻  =  :purple_heart:
+- :chart_with_upwards_trend: My Equation: :coffee: + :musical_note:  =  💻  = :purple_heart:
 - 🚀 Stack: Golang, Python, Scala.
 >
   "If you can dream it, you can do it."
